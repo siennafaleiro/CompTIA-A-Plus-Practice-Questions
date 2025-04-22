@@ -8,7 +8,7 @@ Each question includes the correct answer, along with detailed explanations or r
 
 👍 If you found this guide helpful, share it with others and leave a reaction below to let us know!
 
-Practice Question and Answers
+## Practice Question and Answers
 
 **CompTIA A+ Certification Exam Core 1 (220-1101) Practice Tests**
 
