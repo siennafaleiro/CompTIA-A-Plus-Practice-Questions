@@ -19,7 +19,7 @@ CompTIA A+ is an entry-level certification for IT professionals that validates f
 
 ## Certification Details:
 - **Requires passing two exams:** Core 1 ([**220-1101**](https://www.edusum.com/comptia/comptia-core-1-220-1101-certification-sample-questions)) and Core 2 ([**220-1102**](https://www.edusum.com/comptia/comptia-core-2-220-1102-certification-sample-questions))
-- Offered by CompTIA (Computing Technology Industry Association)
+- Offered by [CompTIA](https://www.comptia.org/certifications/a) (Computing Technology Industry Association)
 - Globally recognized and vendor-neutral
 
 ## Why It’s Valuable:
