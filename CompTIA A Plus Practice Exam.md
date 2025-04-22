@@ -16,3 +16,8 @@ Practice Question and Answers
 - [Practice Exam - 2](https://github.com/siennafaleiro/CompTIA-A-Plus-Practice-Questions/blob/main/Practice%20Exam%202.md)
 - [Practice Exam - 3](https://github.com/siennafaleiro/CompTIA-A-Plus-Practice-Questions/blob/main/Practice%20Exam%203.md)
 - [Practice Exam - 4](https://github.com/siennafaleiro/CompTIA-A-Plus-Practice-Questions/blob/main/Practice%20Exam%204.md)
+
+Don't delay! Your future in IT starts now!
+
+- [**Claim your FREE A+ Core 1 practice test NOW and get ready to pass!**
+](https://www.edusum.com/comptia/220-1101-comptia-core-1)
