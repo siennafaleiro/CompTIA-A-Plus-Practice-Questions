@@ -1,6 +1,6 @@
 ## Practice Exam
 
-## 🔐 1. Security
+## 1. Security
 
 **Q1:**  
 A user reports that files on their computer are encrypted and a message is asking for payment. What kind of attack has likely occurred?
@@ -16,7 +16,7 @@ A user reports that files on their computer are encrypted and a message is askin
 
 ---
 
-## 🛠️ 2. Software Troubleshooting
+## 2. Software Troubleshooting
 
 **Q2:**  
 After installing a new application, Windows 10 repeatedly shows “Application Not Responding.” What should be checked first?
@@ -46,7 +46,7 @@ A user cannot open an encrypted email. What’s the most likely reason?
 
 ---
 
-## 🧰 3. Operational Procedures
+## 3. Operational Procedures
 
 **Q4:**  
 Which of the following is considered a best practice when working inside a computer?
