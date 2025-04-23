@@ -1,6 +1,6 @@
 ## Practice Exam
 
-## 📁 1. Operating Systems
+## 1. Operating Systems
 
 **Q1:**  
 A user needs to run a legacy application that only works on Windows 7. What is the best method to run the application on a Windows 10 machine?
@@ -30,7 +30,7 @@ Which edition of Windows 10 does not support BitLocker?
 
 ---
 
-## 🔐 2. Security
+## 2. Security
 
 **Q3:**  
 What type of malware appears to perform a desirable function but actually performs malicious activity in the background?
@@ -60,7 +60,7 @@ What should be the first step when addressing a suspected malware infection?
 
 ---
 
-## 🛠️ 3. Software Troubleshooting
+## 3. Software Troubleshooting
 
 **Q5:**  
 A user is unable to access a network share but can browse the internet. What’s the most likely cause?
