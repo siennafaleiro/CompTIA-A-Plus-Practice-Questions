@@ -21,3 +21,17 @@ Don't delay! Your future in IT starts now!
 
 - [**Claim your FREE A+ Core 1 practice test NOW and get ready to pass!**
 ](https://www.edusum.com/comptia/220-1101-comptia-core-1)
+
+__
+
+**CompTIA A+ Certification Exam Core 2 (220-1102) Practice Tests**
+
+- [Practice Exam - 5](https://github.com/siennafaleiro/CompTIA-A-Plus-Practice-Questions/blob/main/Practice%20Exam%205.md)
+- [Practice Exam - 6](https://github.com/siennafaleiro/CompTIA-A-Plus-Practice-Questions/blob/main/Practice%20Exam%206.md)
+- [Practice Exam - 7](https://github.com/siennafaleiro/CompTIA-A-Plus-Practice-Questions/blob/main/Practice%20Exam%207.md)
+- [Practice Exam - 8](https://github.com/siennafaleiro/CompTIA-A-Plus-Practice-Questions/blob/main/Practice%20Exam%208.md)
+
+Don't delay! Your future in IT starts now!
+
+- [**Claim your FREE A+ Core 2 practice test NOW and get ready to pass!**
+](https://www.edusum.com/comptia/220-1102-comptia-core-2)
